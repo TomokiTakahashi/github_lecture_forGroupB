@@ -9,6 +9,9 @@ $ cd "任意のファイル"
    ```
 
    任意のファイルに移動できたらリポジトリをクローンする
+
+   今回はgithubにリポジトリをすでにつくってみたのでこれをcloneしてみて。
+   https://github.com/TomokiTakahashi/animals
    
    https通信でcloneする場合
    
